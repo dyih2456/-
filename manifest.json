@@ -1,4 +1,3 @@
-
 {
   "name": "إدارة طلبات التوصيل",
   "short_name": "إدارة الطلبات",
@@ -26,6 +25,13 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "dyih2456",
+      "url": "https://dyih2456.github.io/-/",
+      "description": ""
     }
   ]
 }
