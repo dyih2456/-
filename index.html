@@ -2153,7 +2153,7 @@
 
          // --- QR Code Scanner Logic ---
         function startQRScanLoop() {
-            if (!cameraStream || !qrVideoElement.readyState === qrVideoElement.HAVE_ENOUGH_DATA) {
+            if (!cameraStream || qrVideoElement.readyState !== qrVideoElement.HAVE_ENOUGH_DATA) {
                 if(cameraStream) scanAnimationId = requestAnimationFrame(startQRScanLoop);
                 return;
             }
