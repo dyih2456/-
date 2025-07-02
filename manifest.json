@@ -7,26 +7,7 @@
   "background_color": "#ffffff",
   "theme_color": "#2B60DE",
   "description": "نظام لإدارة طلبات التوصيل للمندوبين",
-  "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
+  "icons": [],
   "shortcuts": [
     {
       "name": "dyih2456",
